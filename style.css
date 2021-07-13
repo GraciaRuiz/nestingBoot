@@ -1,0 +1,22 @@
+.bg-logo{
+           background-color:#1d1775;
+            
+}
+.my-bg{
+    background-image: url("https://picsum.photos/500");
+    background-position: center;
+}
+
+.bg-4{
+    background-image: url("https://picsum.photos/501");
+    background-position: center; 
+}
+
+.bg-5{
+    background-color:#ffc924;
+}
+
+.bg-6{
+    background-image: url("https://picsum.photos/502");
+    background-position: center; 
+}
